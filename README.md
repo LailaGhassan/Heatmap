@@ -14,6 +14,3 @@ An interactive pollution heatmap web app that visualizes real-time-like air qual
 - 🌈 **Color-coded AQI legend**
 - 📤 **Export Map as PNG** with `html2canvas`
 
----
-
-## 🖥️ Demo
